@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T12:24:35.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0arwgguARCJK82IevPHz" version="24.5.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-06-20T12:35:55.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bFfQLiN90MbI_nVE1o-F" version="24.5.5" type="github" pages="17">
   <diagram name="Log In (For Users)" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1290" dy="2722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -947,7 +947,7 @@
         <mxCell id="lhkocjnlUgOr_AAumOPj-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Share Resource from General Library&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(For Users)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="680" y="30" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lhkocjnlUgOr_AAumOPj-22" value=":System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lhkocjnlUgOr_AAumOPj-22" value=":General library database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lhkocjnlUgOr_AAumOPj-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="lhkocjnlUgOr_AAumOPj-22" edge="1">
@@ -1109,7 +1109,7 @@
         <mxCell id="bJILWbRsJVUc2Y6bqBKS-1" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bJILWbRsJVUc2Y6bqBKS-2" value=":System Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bJILWbRsJVUc2Y6bqBKS-2" value=":System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="155" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bJILWbRsJVUc2Y6bqBKS-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
@@ -1221,7 +1221,7 @@
         <mxCell id="p1YKyT-JjRrLQPbhU0aW-1" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p1YKyT-JjRrLQPbhU0aW-2" value=":System Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="p1YKyT-JjRrLQPbhU0aW-2" value=":System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="155" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p1YKyT-JjRrLQPbhU0aW-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
@@ -1242,7 +1242,7 @@
         <mxCell id="p1YKyT-JjRrLQPbhU0aW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="747.5" y="320" width="5" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="p1YKyT-JjRrLQPbhU0aW-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Like Post&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(For Users)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="p1YKyT-JjRrLQPbhU0aW-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Post in Group&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(For Users)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="405" y="80" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p1YKyT-JjRrLQPbhU0aW-8" value=":Group" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1353,7 +1353,7 @@
         <mxCell id="wbwQsST5z5yzIapKkyXH-1" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wbwQsST5z5yzIapKkyXH-2" value=":System Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wbwQsST5z5yzIapKkyXH-2" value=":System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="155" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wbwQsST5z5yzIapKkyXH-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
@@ -1509,7 +1509,7 @@
         <mxCell id="JKrhBP3aqhn3a11oMpju-1" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JKrhBP3aqhn3a11oMpju-2" value=":System Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JKrhBP3aqhn3a11oMpju-2" value=":System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="155" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JKrhBP3aqhn3a11oMpju-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
@@ -1718,7 +1718,7 @@
         <mxCell id="f14WWSjvsM878f9vpRQj-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="160" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="f14WWSjvsM878f9vpRQj-2" value=":System Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="f14WWSjvsM878f9vpRQj-2" value=":System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f14WWSjvsM878f9vpRQj-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
