@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T15:46:00.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="q9geO3Exwo-zbpwkuvB7" version="24.5.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-06-20T16:06:31.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kkKlrknP5eBrfOGW4iXc" version="24.5.5" type="github" pages="17">
   <diagram name="Log In (For Users)" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1518" dy="2814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1710,8 +1710,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ACUQU8MmVy0bDnc7zkUr" name="Manage Content (For Admin)">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="ACUQU8MmVy0bDnc7zkUr" name="Check Post (For Admin)">
+    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1755,7 +1755,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f14WWSjvsM878f9vpRQj-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Manage Content&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(For Admin)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="f14WWSjvsM878f9vpRQj-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Check Post&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(For Admin)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f14WWSjvsM878f9vpRQj-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1778,8 +1778,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="m9VZCLseNY36gkhQQo77" name="Manage Library Resource (For Admin)">
-    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="m9VZCLseNY36gkhQQo77" name="Check Library Resouces  (For Admin)">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1840,13 +1840,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPmj0XqRCH8jj45Invem-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Manage Library Resouces&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(For Admin)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="IPmj0XqRCH8jj45Invem-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Check Library Resouces&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(For Admin)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="OwNrmKg3_qvTnxPE6OaS" name="Manage Users and Groups (For Admin)">
+  <diagram id="OwNrmKg3_qvTnxPE6OaS" name="Users / Groups Management (For Admin)">
     <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1908,7 +1908,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2ZviElqZC2EgJaYmgoi-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Manage Users and Groups&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(For Admin)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="H2ZviElqZC2EgJaYmgoi-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Users / Groups Management&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(For Admin)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -1994,12 +1994,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Or5brTkyA0wrg4hJV_QY" name="Monitor Security (For Admin)">
-    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Or5brTkyA0wrg4hJV_QY" name="Detect Inappropriate behavior  (For Admin)">
+    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WrA8OqxtwMxvOhksvILo-1" value="&lt;div&gt;&lt;b style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Monitor Security (For Admin)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="WrA8OqxtwMxvOhksvILo-1" value="&lt;div&gt;&lt;b style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Detect Inappropriate behavior&lt;/b&gt;&lt;b style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px; background-color: initial;&quot;&gt;(For Admin)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="325" y="50" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WrA8OqxtwMxvOhksvILo-2" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
