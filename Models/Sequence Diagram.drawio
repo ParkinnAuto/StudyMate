@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T12:45:35.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NayIWdfSNPONkcysmbAo" version="24.5.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-06-20T12:46:35.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="433y1iRp6HP-o82Y-vAv" version="24.5.5" type="github" pages="17">
   <diagram name="Log In (For Users)" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1518" dy="2814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1162,7 +1162,7 @@
             <mxPoint x="737.5" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bJILWbRsJVUc2Y6bqBKS-26" value="like a post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="bJILWbRsJVUc2Y6bqBKS-25" vertex="1" connectable="0">
+        <mxCell id="bJILWbRsJVUc2Y6bqBKS-26" value="like resource" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="bJILWbRsJVUc2Y6bqBKS-25" vertex="1" connectable="0">
           <mxGeometry x="-0.1504" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
